@@ -1,0 +1,12 @@
+{
+    "name": "exercise3-nodejs",
+    "version": "1.0.0",
+    "description": "first project",
+    "main": "Node.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start":"npm run Node.js"
+    },
+    "author": "",
+    "license": "ISC"
+  }
